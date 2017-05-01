@@ -1,0 +1,20 @@
+     李煜 前端工程师 e-mail:lllyyy2012@icoud.com
+
+基本信息
+   姓名：李煜 年龄：25 籍贯：陕西渭南  
+   毕业院校：武汉大学 性别：男  tel:17319362912
+
+工作技能：
+   熟悉HTML 5,CSS3,原生JavaScript，ES6语法新特性；
+   熟悉webpack模块打包工具git工具使用；
+   熟悉vue,react框架语法；
+   了解typescript语言以及angular框架，nodejs服务器语言。
+
+工作经历
+  在北京海洋遥感所自动化站担任前端工程师。
+  2014.7-至今
+   在自动化站负责页面维护重构，每周更新网站主页，偶尔负责雪碧图制作，切图工作；
+   参与了网站论坛模块建设，用react重写了网站php论坛前端模块,使得前后端分离；
+   参与了网站新闻板块建设，用react搭建了新闻网站，其中使用了fecth模块获取服务器数据，采用antDesign搭建U'UI界面；
+   用vue搭建了单位网站影视娱乐前端模块，利用vue-resource获取服务器端数据，利用vue-router路由器实现无刷新跳转单页面应用。
+ [我的文章]<a href="https://www.zhihu.com/people/li-yu-5213/pins/posts" target="_blank">
