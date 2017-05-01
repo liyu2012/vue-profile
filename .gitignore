@@ -6,6 +6,8 @@ yarn-error.log*
 build/
 config/
 test/
+*.txt
+*.js.map
 
 
 
